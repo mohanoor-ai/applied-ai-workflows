@@ -4,7 +4,10 @@
 
 Independent working project led by Mohammed. The workspace is Venture Desk. Commercial terms for individual offers remain open.
 
-## Mission and first test
+## Venture Desk mission
+Capture ideas, compare buyer evidence and delivery costs, then record which opportunity Mohammed chooses to test.
+
+## Candidate experiment · [AI workflow automation](ideas/001-ai-workflow-automation.md)
 Find repeatable problems in businesses already using Google Workspace, Microsoft 365 or messaging tools. Build a small improvement and measure its commercial value. Ali offered his existing tuition operation as a possible free pilot. Confirm scope, access, data use, ownership and a review date with him before starting.
 
 | Stage | Action | Evidence to advance |

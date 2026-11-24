@@ -5,3 +5,6 @@ Record each change as proposed, agreed, verified or superseded with owner, date,
 
 ## Working and sharing policy
 GitHub is the source of truth for decisions, tasks, evidence and deliverables. Make edits in the repository and reference the resulting commit. Google Drive is for distributing selected copies. When asked to share, export the relevant version, label it with its source path, commit and date, and use the existing sharing folder. Bring feedback back to GitHub for review before applying it. Sharing a link or changing access requires the user's authorisation.
+
+## Idea intake
+Save each distinct idea under ideas/ with a stable ID, origin, buyer problem, existing evidence, status and next decision. Link it from README.md. Research, demos and example prices are supporting material. Record a founder decision before treating a candidate as selected for execution.

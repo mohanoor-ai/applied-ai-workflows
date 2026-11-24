@@ -2,7 +2,10 @@
 
 [Revenue recommendation and 90-day plan](docs/venture-desk/REVENUE-PLAN.md) · [Reusable build blueprint](docs/venture-desk/BUILD-BLUEPRINT.md)
 
-Independent research, workflow automation pilots and practical AI training.
+Mohammed’s private workspace for capturing, comparing and testing business ideas.
+
+## Saved ideas
+- IDEA-001 · [AI workflow automation](ideas/001-ai-workflow-automation.md) · Captured
 
 
 ## Start here
