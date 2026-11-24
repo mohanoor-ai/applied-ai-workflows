@@ -1,0 +1,5 @@
+Owner,Task,Completion evidence,Status
+"Mohammed","Agree pilot scope","Owner approves access and cost cap","Proposed"
+"Pilot owner","Supply baseline","Aggregate counts for comparable period","Proposed"
+"Mohammed","Demonstrate one workflow","Owner tests dummy-data path and fallback","Proposed"
+"Mohammed","Measure and price","Actual result, costs and independent buyer response","Proposed"
