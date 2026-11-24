@@ -1,10 +1,10 @@
-# IQSoft Venture Desk | Handover
+# Venture Desk | Handover
 
 [Revenue recommendation and 90-day plan](docs/venture-desk/REVENUE-PLAN.md) · [Reusable build blueprint](docs/venture-desk/BUILD-BLUEPRINT.md)
 
 
-## Applied AI Workflows
-Mohammed leads an independent workflow automation and training project. Ali offered his existing tuition operation as a potential free pilot. Scope, data access, budget, success measure and reuse rights remain open. The workspace is IQSoft Venture Desk; no equity arrangement has been selected.
+## Venture Desk
+Mohammed leads an independent workflow automation and training project. Ali offered his existing tuition operation as a potential free pilot. Scope, data access, budget, success measure and reuse rights remain open. The workspace is Venture Desk; no equity arrangement has been selected.
 
 ## State at handover
 The operating plan, draft business plan, sourced research and founder action tracker are committed. Pilot delivery, baseline data, paid continuation and demand from an independent buyer have yet to be evidenced. Historical mixed-project files in archive/pre-split are provenance only. Use the current project plan to establish scope.

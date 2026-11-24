@@ -30,7 +30,7 @@ Start with WeAreExcel and Keys because both publish a group-booking route. Teach
 - Only demo if relevant. Log stated problem, baseline availability, existing tool, decision-maker role, next step and reason for declining.
 
 ## Outreach and offer draft
-“Hi [name], I saw that you arrange [specific in-house course]. When a group booking request is passed between colleagues, how do you check who owns the reply? I have a three-minute example using fictional enquiries. If this has caused a missed booking recently, would a short walkthrough be useful? Mohammed, IQSoft.”
+“Hi [name], I saw that you arrange [specific in-house course]. When a group booking request is passed between colleagues, how do you check who owns the reply? I have a three-minute example using fictional enquiries. If this has caused a missed booking recently, would a short walkthrough be useful? Mohammed, Venture Desk.”
 
 Proposed quote: £750 for one shared inbox, owner queue, reviewable reminder, weekly exception report, handover and 14 days of defect fixes. Confirm licence costs, permissions, applicable VAT, start date and buyer-defined reply window before signing. No migration, bulk messaging or guaranteed sales uplift. Optional £99/month monitoring with up to one support hour. Request buyer approval before sending anything from their tenant.
 

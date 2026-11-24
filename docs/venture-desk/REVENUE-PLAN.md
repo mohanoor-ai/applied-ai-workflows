@@ -1,4 +1,4 @@
-# What IQSoft should sell first | 90-day revenue plan
+# What Venture Desk should sell first | 90-day revenue plan
 Decision date: 24 November 2026. Owner: Mohammed. Recommendation for a paid experiment; no buyer, sale or income is assumed.
 
 ## Five opportunities
@@ -23,7 +23,7 @@ Sources accessed 24 November 2026. Supplier scope and buyer size differ. Competi
 - No verified completed SME purchase or founder earnings figure for these exact scopes was found in this research. Log buyer budgets, written quotes, signed orders and cash received as separate events. A deposit from an independent buyer changes the ranking more than another vendor advert.
 
 ## Economics | illustrative GBP, before tax
-Assume one owner at £35/hour, £50 shared overhead per month, 3 hours selling per setup. Prices are IQSoft test prices. Client licences are paid directly by client. Power Automate Premium lists £11.50/user/month billed annually ex VAT; confirm flow, user and connector coverage. Power BI Pro lists £10.80/user/month billed annually ex VAT; price all authors/viewers and check existing entitlements. Dealer hosting allowances below are estimates. [Automate licensing](https://www.microsoft.com/en-gb/power-platform/products/power-automate/pricing) · [BI licensing](https://www.microsoft.com/en-gb/power-platform/products/power-bi/pricing)
+Assume one owner at £35/hour, £50 shared overhead per month, 3 hours selling per setup. Prices are Venture Desk test prices. Client licences are paid directly by client. Power Automate Premium lists £11.50/user/month billed annually ex VAT; confirm flow, user and connector coverage. Power BI Pro lists £10.80/user/month billed annually ex VAT; price all authors/viewers and check existing entitlements. Dealer hosting allowances below are estimates. [Automate licensing](https://www.microsoft.com/en-gb/power-platform/products/power-automate/pricing) · [BI licensing](https://www.microsoft.com/en-gb/power-platform/products/power-bi/pricing)
 
 | Offer | Setup price / direct cash / build hours | Cash contribution / after build + sales time | New setups per month for £1k / £3k profit after time | Support price / cash / hours | Support-only clients for £1k / £3k after time |
 |---|---|---|---|---|---|

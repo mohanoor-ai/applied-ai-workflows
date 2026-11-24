@@ -1,4 +1,4 @@
-# Business plan | Applied AI Workflows
+# Business plan | Venture Desk
 Working proposal · 24 November 2026. Mohammed leads discovery; commercial brand, pricing and partnerships are open.
 
 ## Customer, problem and offer

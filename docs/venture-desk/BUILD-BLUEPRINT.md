@@ -1,4 +1,4 @@
-# IQSoft Venture Desk | Build blueprint
+# Venture Desk | Build blueprint
 Private workspace for Mohammed. GitHub is canonical; Google Drive is for requested sharing snapshots. The online school is a separate venture.
 
 ## Two entry points

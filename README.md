@@ -1,4 +1,4 @@
-# IQSoft Venture Desk
+# Venture Desk
 
 [Revenue recommendation and 90-day plan](docs/venture-desk/REVENUE-PLAN.md) · [Reusable build blueprint](docs/venture-desk/BUILD-BLUEPRINT.md)
 
