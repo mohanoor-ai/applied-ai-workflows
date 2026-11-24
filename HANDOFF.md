@@ -9,8 +9,11 @@ Mohammed leads an independent workflow automation and training project. Ali offe
 ## State at handover
 The operating plan, draft business plan, sourced research and founder action tracker are committed. Pilot delivery, baseline data, paid continuation and demand from an independent buyer have yet to be evidenced. Historical mixed-project files in archive/pre-split are provenance only. Use the current project plan to establish scope.
 
+## Week-one materials
+[Prospect list, discovery script, demo walkthrough and proposed scope](docs/venture-desk/week-one/PROSPECTING-PACK.md). Offline demo logic checked with fictional data. Candidate research is complete; buyer qualification, outreach and revenue are pending.
+
 ## Next executable action
-Run week one of the revenue plan. Prepare the fictional shared-inbox demo and qualify ten training providers. Ali’s proposed pilot is an optional discovery route. No buyer outreach or paid sale has been recorded.
+Run week one of the revenue plan. Use the prepared demo to qualify the ten candidate organisations. Ali’s proposed pilot is an optional discovery route. No buyer outreach or paid sale has been recorded.
 
 ## Resume with any AI platform
 Give the assistant authorised access to this private repo, or provide a snapshot of the relevant files from one commit. Use this prompt:

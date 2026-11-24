@@ -1,0 +1,17 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>IQSoft · Training enquiries</title><style>body{font:17px/1.5 system-ui;max-width:850px;margin:auto;padding:22px;background:#f4f7f6;color:#123431}h1{line-height:1.15}article{background:white;border:1px solid #afc5bf;border-radius:8px;margin:12px 0;padding:16px}button,select{font:inherit;padding:6px;margin:4px}small{color:#435d55}#summary{font-weight:bold}</style><h1>Training enquiries</h1><p>Fictional booking desk · Tuesday at 12:00. Four working hours to reply. Changes last for this session.</p><p id="summary" aria-live="polite"></p><label>Show <select id="filter"><option>All</option><option>Needs attention</option></select></label><button id="reset">Reset demo</button><main></main><script>
+const inbox=[
+ {id:"E01",subject:"Excel for a finance team",age:1,owner:"",replied:false},
+ {id:"E02",subject:"Leadership workshop for twelve",age:6,owner:"Sam",replied:false},
+ {id:"E02",subject:"Leadership workshop for twelve",age:6,owner:"Sam",replied:false},
+ {id:"E03",subject:"New manager induction",age:2,owner:"Jo",replied:true},
+ {id:"E04",subject:"Power BI group booking",age:3,owner:"Jo",replied:false}];
+function initial(){return [...new Map(inbox.map(x=>[x.id,{...x}])).values()]}
+let items=initial();
+function late(x){return !x.replied && x.age>4}
+function draw(){const main=document.querySelector("main");main.replaceChildren();
+document.querySelector("#summary").textContent=inbox.length+" incoming events · "+items.length+" enquiries · "+items.filter(x=>!x.owner).length+" unassigned · "+items.filter(late).length+" overdue";
+for(const x of items){if(filter.value==="Needs attention" && x.owner && !late(x))continue;
+const row=document.createElement("article");const name=document.createElement("strong");name.textContent=x.id+" · "+x.subject;const detail=document.createElement("p");detail.textContent=(x.replied?"Replied":late(x)?"Overdue":"Awaiting reply")+" · received "+x.age+" working hours ago";
+const label=document.createElement("label");label.textContent="Owner ";const select=document.createElement("select");for(const value of ["","Sam","Jo"]){select.add(new Option(value||"Unassigned",value))}select.value=x.owner;select.onchange=()=>{x.owner=select.value;draw()};label.append(select);
+const button=document.createElement("button");button.textContent=x.replied?"Reply recorded":"Record reply";button.disabled=x.replied||!x.owner;button.onclick=()=>{x.replied=true;draw()};row.append(name,detail,label,button);main.append(row)}}
+const filter=document.querySelector("#filter");filter.onchange=draw;document.querySelector("#reset").onclick=()=>{items=initial();filter.value="All";draw()};draw();</script></html>
