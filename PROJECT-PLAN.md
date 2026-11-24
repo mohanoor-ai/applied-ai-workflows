@@ -1,5 +1,8 @@
-# Applied AI Workflows
-Independent working project led by Mohammed. No commercial brand or partnership terms have been selected.
+# IQSoft Venture Desk | Project plan
+
+[Revenue recommendation and 90-day plan](docs/venture-desk/REVENUE-PLAN.md) · [Reusable build blueprint](docs/venture-desk/BUILD-BLUEPRINT.md)
+
+Independent working project led by Mohammed. The workspace is IQSoft Venture Desk. Commercial terms for individual offers remain open.
 
 ## Mission and first test
 Find repeatable problems in businesses already using Google Workspace, Microsoft 365 or messaging tools. Build a small improvement and measure its commercial value. Ali offered his existing tuition operation as a possible free pilot. Confirm scope, access, data use, ownership and a review date with him before starting.

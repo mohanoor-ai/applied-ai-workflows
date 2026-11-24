@@ -1,4 +1,7 @@
-# applied-ai-workflows
+# IQSoft Venture Desk
+
+[Revenue recommendation and 90-day plan](docs/venture-desk/REVENUE-PLAN.md) · [Reusable build blueprint](docs/venture-desk/BUILD-BLUEPRINT.md)
+
 Independent research, workflow automation pilots and practical AI training.
 
 
