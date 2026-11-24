@@ -1,5 +1,7 @@
 # Venture Desk
 
+Start with the [Venture Desk founding brief](VENTURE-DESK-BRIEF.md) for the vision, mission, goals, scope, idea status and operating workflow.
+
 [Revenue recommendation and 90-day plan](docs/venture-desk/REVENUE-PLAN.md) · [Reusable build blueprint](docs/venture-desk/BUILD-BLUEPRINT.md)
 
 Mohammed’s private workspace for capturing, comparing and testing business ideas.

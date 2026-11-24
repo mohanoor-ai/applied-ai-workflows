@@ -1,4 +1,6 @@
 # What Venture Desk should sell first | 90-day revenue plan
+
+**Candidate offer analysis.** These commercial assumptions belong to the workflow automation idea. Mohammed has not selected a pilot for execution.
 Decision date: 24 November 2026. Owner: Mohammed. Recommendation for a paid experiment; no buyer, sale or income is assumed.
 
 ## Five opportunities

@@ -1,4 +1,6 @@
 # Contributor context
+
+Start with the [Venture Desk founding brief](VENTURE-DESK-BRIEF.md) for the vision, mission, goals, scope, idea status and operating workflow.
 Start with HANDOFF.md, README.md and PROJECT-PLAN.md. Use BUSINESS-PLAN.md for assumptions, docs/RESEARCH.md for evidence and docs/ACTIONS.csv for the next owner. Read only the materials needed for the current decision. This repository covers independent applied AI work. Archived pre-split material is evidence of past discussion; it cannot establish current scope, ownership or approval.
 
 Record each change as proposed, agreed, verified or superseded with owner, date, source and next decision. Give cost examples currency, period and exclusions. Mark vendor claims separately from trial observations. Use aggregate or fictional data in Git. Keep access credentials, family records and client-specific material in their authorised systems. At handover record deliverable, checks, unresolved evidence and next owner. Review proposed changes with the relevant founder before presenting them as commitments.

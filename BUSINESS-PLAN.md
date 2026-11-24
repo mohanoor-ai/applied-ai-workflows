@@ -1,4 +1,6 @@
 # Business plan | Venture Desk
+
+**Candidate offer analysis.** These commercial assumptions belong to the workflow automation idea. Mohammed has not selected a pilot for execution.
 Working proposal · 24 November 2026. Mohammed leads discovery; commercial brand, pricing and partnerships are open.
 
 ## Customer, problem and offer
