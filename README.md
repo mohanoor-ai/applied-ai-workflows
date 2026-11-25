@@ -7,7 +7,8 @@ Start with the [Venture Desk founding brief](VENTURE-DESK-BRIEF.md) for the visi
 Mohammed’s private workspace for capturing, comparing and testing business ideas.
 
 ## Saved ideas
-- IDEA-001 · [AI workflow automation](ideas/001-ai-workflow-automation.md) · Captured
+- IDEA-001 · [AI workflow automation](ideas/001-ai-workflow-automation.md) · Productised service candidate
+- DEALER-001 · [Dealer Desk](ideas/dealer-001.md) · Dealership product candidate
 
 
 ## Start here
