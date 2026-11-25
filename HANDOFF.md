@@ -6,7 +6,7 @@ Start with the [Venture Desk founding brief](VENTURE-DESK-BRIEF.md) for the visi
 
 
 ## Venture Desk
-Venture Desk holds business ideas for Mohammed to compare. [AI workflow automation](ideas/001-ai-workflow-automation.md) is a captured candidate.
+Mohammed confirmed two main sessions on 25 November 2026: Manara Online School for the school, and Venture Desk for commercial opportunities. Track [Dealer Desk](ideas/dealer-001.md) and [AI workflow service productisation](ideas/001-ai-workflow-automation.md) separately within the Venture Desk session.
 
 ## State at handover
 The operating plan, draft business plan, sourced research and founder action tracker are committed. Pilot delivery, baseline data, paid continuation and demand from an independent buyer have yet to be evidenced. Historical mixed-project files in archive/pre-split are provenance only. Use the current project plan to establish scope.
@@ -15,7 +15,7 @@ The operating plan, draft business plan, sourced research and founder action tra
 [Prospect list, discovery script, demo walkthrough and proposed scope](docs/venture-desk/week-one/PROSPECTING-PACK.md). Offline demo logic checked with fictional data. Candidate research is complete; buyer qualification, outreach and revenue are pending.
 
 ## Next executable action
-The next decision belongs to Mohammed: select IDEA-001 for research, compare another idea or leave it on hold. The demo and prospect pack are preparation for a possible test.
+The next decision belongs to Mohammed: choose whether to investigate the dealer’s last missed enquiry or trace a parent enquiry with Ali’s existing tuition business first. Each opportunity has its own evidence and next decision. The demo and prospect pack are preparation for a possible test.
 
 ## Resume with any AI platform
 Give the assistant authorised access to this private repo, or provide a snapshot of the relevant files from one commit. Use this prompt:
