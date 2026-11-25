@@ -11,3 +11,6 @@ Pick one recurring problem, ask an owner for a recent example and measure its fr
 
 ## Next decision
 Mohammed can select this idea for research, leave it on hold or close it. Record the date, decision and reason here. If selected, link the first agreed task and the evidence it should produce.
+
+## Productisation goal · 25 November 2026
+Mohammed confirmed this as a distinct Venture Desk opportunity. Ali’s existing tuition business is the proposed discovery setting. Trace one parent enquiry to paid enrolment. If a pilot works, package the buyer outcome, scope, price, setup checklist, support terms and measured delivery cost into a repeatable service. Ali’s offer to practise establishes access; willingness to pay remains open.
